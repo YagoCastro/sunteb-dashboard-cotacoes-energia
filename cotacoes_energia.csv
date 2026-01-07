@@ -1,0 +1,407 @@
+data_cotacao;comercializadora;modalidade;tipo_energia;submercado;periodicidade;ano_suprimento;mes_suprimento;periodo_suprimento_inicio;periodo_suprimento_fim;valor_cotacao;flexibilidade_percentual;sazonalidade_percentual
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+05/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+06/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+07/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+08/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+09/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+05/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+06/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+07/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+08/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+09/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+05/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+06/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+07/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+08/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+09/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+05/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+06/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+07/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+08/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+09/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+06/01/2026;Armor;Atacadista;50;SE;Anual;2026;0;01/04/2026;31/12/2026;364,56;-;-
+06/01/2026;Armor;Atacadista;Convencional;SE;Anual;2026;0;01/04/2026;31/12/2026;337,56;-;-
+06/01/2026;Armor;Atacadista;100;SE;Anual;2026;0;01/04/2026;31/12/2026;522,56;-;-
+06/01/2026;Armor;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;360,25;-;-
+06/01/2026;Armor;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;333,25;-;-
+06/01/2026;Armor;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;518,25;-;-
+06/01/2026;Armor;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;302,75;-;-
+06/01/2026;Armor;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;275,75;-;-
+06/01/2026;Armor;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;460,75;-;-
+06/01/2026;Armor;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;313,75;-;-
+06/01/2026;Armor;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;286,75;-;-
+06/01/2026;Armor;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;471,75;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;337;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;341;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;297;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;310;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;334;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;364;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;265;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;295;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;244;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;274;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;230;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;261;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;200;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;157;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;185;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2032;0;01/01/2032;31/12/2032;154;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2032;0;01/01/2032;31/12/2032;182;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2033;0;01/01/2033;31/12/2033;147;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2033;0;01/01/2033;31/12/2033;175;-;-
+06/01/2026;Light;Atacadista;Convencional;SE;Anual;2034;0;01/01/2034;31/12/2034;145;-;-
+06/01/2026;Light;Atacadista;50;SE;Anual;2034;0;01/01/2034;31/12/2034;173;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;294;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;323;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2027;0;01/01/2027;31/12/2027;233;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2027;0;01/01/2027;31/12/2027;263;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2028;0;01/01/2028;31/12/2028;223;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2028;0;01/01/2028;31/12/2028;254;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2029;0;01/01/2029;31/12/2029;218;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2029;0;01/01/2029;31/12/2029;250;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2030;0;01/01/2030;31/12/2030;192;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2030;0;01/01/2030;31/12/2030;220;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2031;0;01/01/2031;31/12/2031;150;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2031;0;01/01/2031;31/12/2031;178;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2032;0;01/01/2032;31/12/2032;147;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2032;0;01/01/2032;31/12/2032;175;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2033;0;01/01/2033;31/12/2033;140;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2033;0;01/01/2033;31/12/2033;168;-;-
+06/01/2026;Light;Atacadista;Convencional;NE;Anual;2034;0;01/01/2034;31/12/2034;138;-;-
+06/01/2026;Light;Atacadista;50;NE;Anual;2034;0;01/01/2034;31/12/2034;166;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;301;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;330;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2027;0;01/01/2027;31/12/2027;238;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2027;0;01/01/2027;31/12/2027;268;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2028;0;01/01/2028;31/12/2028;227;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2028;0;01/01/2028;31/12/2028;257;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2029;0;01/01/2029;31/12/2029;221;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2029;0;01/01/2029;31/12/2029;252;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2030;0;01/01/2030;31/12/2030;193;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2030;0;01/01/2030;31/12/2030;221;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2031;0;01/01/2031;31/12/2031;150;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2031;0;01/01/2031;31/12/2031;178;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2032;0;01/01/2032;31/12/2032;147;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2032;0;01/01/2032;31/12/2032;175;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2033;0;01/01/2033;31/12/2033;140;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2033;0;01/01/2033;31/12/2033;168;-;-
+06/01/2026;Light;Atacadista;Convencional;N;Anual;2034;0;01/01/2034;31/12/2034;138;-;-
+06/01/2026;Light;Atacadista;50;N;Anual;2034;0;01/01/2034;31/12/2034;166;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;334;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;364;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;265;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;295;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;244;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;274;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;230;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;261;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;200;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;157;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;185;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2032;0;01/01/2032;31/12/2032;154;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2032;0;01/01/2032;31/12/2032;182;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2033;0;01/01/2033;31/12/2033;147;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2033;0;01/01/2033;31/12/2033;175;-;-
+06/01/2026;Light;Atacadista;Convencional;S;Anual;2034;0;01/01/2034;31/12/2034;145;-;-
+06/01/2026;Light;Atacadista;50;S;Anual;2034;0;01/01/2034;31/12/2034;173;-;-
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+05/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+05/01/2026;Migratio;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+05/01/2026;Migratio;Atacadista;100;SE;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+05/01/2026;Migratio;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+05/01/2026;Migratio;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+05/01/2026;Migratio;Atacadista;100;S;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+05/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+05/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+05/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+05/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+05/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+05/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+06/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+06/01/2026;Migratio;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+06/01/2026;Migratio;Atacadista;100;SE;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+06/01/2026;Migratio;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+06/01/2026;Migratio;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+06/01/2026;Migratio;Atacadista;100;S;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+06/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+06/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+06/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+06/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+06/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+06/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+07/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+07/01/2026;Migratio;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+07/01/2026;Migratio;Atacadista;100;SE;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+07/01/2026;Migratio;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+07/01/2026;Migratio;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+07/01/2026;Migratio;Atacadista;100;S;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+07/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+07/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+07/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+07/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+07/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+07/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+08/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+08/01/2026;Migratio;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+08/01/2026;Migratio;Atacadista;100;SE;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+08/01/2026;Migratio;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+08/01/2026;Migratio;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+08/01/2026;Migratio;Atacadista;100;S;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+08/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+08/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+08/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+08/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+08/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+08/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2026;0;01/01/2026;31/12/2026;338,84;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;373,84;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2026;0;01/01/2026;31/12/2026;528,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2027;0;01/01/2027;31/12/2027;268;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;303;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2027;0;01/01/2027;31/12/2027;458;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2028;0;01/01/2028;31/12/2028;248;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;283;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2028;0;01/01/2028;31/12/2028;438;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2029;0;01/01/2029;31/12/2029;228;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;263;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2029;0;01/01/2029;31/12/2029;418;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2030;0;01/01/2030;31/12/2030;193;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;228;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2030;0;01/01/2030;31/12/2030;383;10;10
+09/01/2026;Migratio;Atacadista;Convencional;SE;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+09/01/2026;Migratio;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+09/01/2026;Migratio;Atacadista;100;SE;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+09/01/2026;Migratio;Atacadista;Convencional;S;Anual;2031;0;01/01/2031;31/12/2031;188;10;10
+09/01/2026;Migratio;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;223;10;10
+09/01/2026;Migratio;Atacadista;100;S;Anual;2031;0;01/01/2031;31/12/2031;378;10;10
+09/01/2026;Migratio;Atacadista;Convencional;NE;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+09/01/2026;Migratio;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+09/01/2026;Migratio;Atacadista;100;NE;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+09/01/2026;Migratio;Atacadista;Convencional;N;Anual;2026;0;01/01/2026;31/12/2026;335,84;10;10
+09/01/2026;Migratio;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370,84;10;10
+09/01/2026;Migratio;Atacadista;100;N;Anual;2026;0;01/01/2026;31/12/2026;525,84;10;10
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;388;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;392;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;348;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;370;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;338;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;340;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2027;0;01/01/2027;31/12/2027;313;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2027;0;01/01/2027;31/12/2027;323;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;305;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;307;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2028;0;01/01/2028;31/12/2028;290;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2028;0;01/01/2028;31/12/2028;295;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;274;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;276;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2029;0;01/01/2029;31/12/2029;264;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2029;0;01/01/2029;31/12/2029;264;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;250;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;252;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2030;0;01/01/2030;31/12/2030;240;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2030;0;01/01/2030;31/12/2030;240;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;230;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;232;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2031;0;01/01/2031;31/12/2031;220;-;-
+07/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2031;0;01/01/2031;31/12/2031;225;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2026;0;01/01/2026;31/12/2026;337;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2026;0;01/01/2026;31/12/2026;341;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2026;0;01/01/2026;31/12/2026;297;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2026;0;01/01/2026;31/12/2026;310;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2027;0;01/01/2027;31/12/2027;308;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2027;0;01/01/2027;31/12/2027;310;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2027;0;01/01/2027;31/12/2027;283;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2027;0;01/01/2027;31/12/2027;293;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2028;0;01/01/2028;31/12/2028;292;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2028;0;01/01/2028;31/12/2028;294;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2028;0;01/01/2028;31/12/2028;277;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2028;0;01/01/2028;31/12/2028;282;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2029;0;01/01/2029;31/12/2029;255;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2029;0;01/01/2029;31/12/2029;257;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2029;0;01/01/2029;31/12/2029;245;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2029;0;01/01/2029;31/12/2029;244;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2030;0;01/01/2030;31/12/2030;235;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2030;0;01/01/2030;31/12/2030;237;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2030;0;01/01/2030;31/12/2030;225;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2030;0;01/01/2030;31/12/2030;225;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;SE;Anual;2031;0;01/01/2031;31/12/2031;215;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;S;Anual;2031;0;01/01/2031;31/12/2031;217;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;NE;Anual;2031;0;01/01/2031;31/12/2031;205;-;-
+06/01/2026;Casa dos Ventos;Atacadista;50;N;Anual;2031;0;01/01/2031;31/12/2031;210;-;-
